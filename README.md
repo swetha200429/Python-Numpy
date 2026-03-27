@@ -38,6 +38,7 @@ numpy-mini-projects/
 └── README.md
 
 🧩 Projects Description
+
 🔹Project 1: Array Operations
 Creation of NumPy arrays
 Performing slicing and indexing
